@@ -1,0 +1,29 @@
+label {
+    margin-left: 20px;
+}
+
+input {
+    margin-left: 20px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+button {
+    margin-left: 20px;
+}
+
+table {
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+input[type=text]:focus {
+    border: 2px solid rgb(13, 211, 151);
+    background-color: rgb(209, 241, 93);
+}
+
+body {
+    background-color: rgb(170, 210, 223);
+}
